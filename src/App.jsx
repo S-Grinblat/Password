@@ -124,5 +124,3 @@ function App() {
 }
 
 export default App
-
-//c:v:5ZV.;F2A0IQ}W(=
